@@ -1,0 +1,9 @@
+joblib
+nbformat
+numpy
+pandas
+pillow 
+plotly 
+pydot==3.0.4
+scikit-learn 
+scipy
